@@ -34,11 +34,11 @@ The goal is that at training time, the model will never see the exact same pictu
 
 ![image](https://github.com/user-attachments/assets/4110cd9d-590f-4da8-b5c4-870f035ce0c9)
 
-###Rotating the image
+### Rotating the image
 
 ![image](https://github.com/user-attachments/assets/c943d23b-bd51-4934-b35c-9a5b2229893e)
 
-###Applying Zoom
+### Applying Zoom
 
 ![image](https://github.com/user-attachments/assets/0d235ddc-fe54-46e1-98b7-1fc6ad37a498)
 
