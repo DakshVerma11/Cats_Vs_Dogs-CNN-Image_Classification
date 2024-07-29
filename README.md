@@ -61,6 +61,8 @@ pip install tensorflow matplotlib numpy
 
 ## Model Summary
 
+
+```
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
@@ -93,11 +95,11 @@ _________________________________________________________________
  dense_1 (Dense)             (None, 1)                 513       
                                                                  
 =================================================================
-Total params: 6811969 (25.99 MB)
-Trainable params: 6811969 (25.99 MB)
+Total params: 6,811,969 (25.99 MB)
+Trainable params: 6,811,969 (25.99 MB)
 Non-trainable params: 0 (0.00 Byte)
 _________________________________________________________________
-
+```
 
 ## Results
 
@@ -116,7 +118,6 @@ Here are 100 images from the validation dataset with their predictions:
 ![image](https://github.com/user-attachments/assets/29d82fac-2e90-451b-8ae3-2a9c5ae8ea15)
 
 
-Replace `path/to/predictions_image.png` with the path to the image showing predictions.
 
 ## Usage
 
